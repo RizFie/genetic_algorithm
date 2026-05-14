@@ -1,4 +1,4 @@
-# Evolutionary PID Tuning: Drone Altitude Control
+# Evolutionary PID Tuning for Robotics System: Drone Altitude Control
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RizFie/genetic_algorithm/blob/main/pid_optimizer_ga.ipynb)
 
